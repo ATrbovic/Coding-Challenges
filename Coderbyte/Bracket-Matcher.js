@@ -15,6 +15,9 @@ function BracketMatcher(str) {
 
   return open ? 0 : 1;
 }
+
+//test update
+
    
 // keep this function call here 
 BracketMatcher(readline());
